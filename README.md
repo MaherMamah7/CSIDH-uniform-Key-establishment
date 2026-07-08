@@ -1,8 +1,7 @@
-# qt-Pegasis — effective class-group action in C, and tooling around it
+# CSIDH-Uniform Key Establishment using qt-Pegasis — effective class-group action in C
 
-A standalone **C** implementation of the qt-Pegasis effective class-group action,
-together a uniform ideal sampler, a uniform
-group action, and a CSIDH-Key exchange.
+A standalone **C** implementation of CSIDH-Key exchange using the qt-Pegasis effective class-group action,
+together a uniform ideal sampler on Cayley graph.
 The core solves the **norm equation in C** and thus complements the earlier work
 of Dartois and Duparc, so the entire algorithm runs end-to-end in C with **no
 SageMath in the loop**.
