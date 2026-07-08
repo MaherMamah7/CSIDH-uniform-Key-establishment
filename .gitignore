@@ -1,0 +1,9 @@
+__pycache__/
+data/
+*.swp
+*.sage.py
+*.pdf
+.DS_Store
+*.csv
+old_pegasis/
+.old_pegasis/
