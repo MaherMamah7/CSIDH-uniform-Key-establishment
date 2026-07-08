@@ -5,7 +5,7 @@ together a uniform ideal sampler on Cayley graph.
 The core solves the **norm equation in C** and thus complements the earlier work
 of Dartois and Duparc, so the entire algorithm runs end-to-end in C with **no
 SageMath in the loop**.
-Maintaind by <Maher Mamah>
+Maintaind by *Maher Mamah*
 ---
 
 ## Repository layout
