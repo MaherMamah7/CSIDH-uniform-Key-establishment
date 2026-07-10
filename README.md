@@ -80,7 +80,7 @@ cd Cayley_uniform_ideal && make && ./cayley 500 -r 1000
 ```
 
 `compute_action` is the steady-state per-action cost (a fixed-length 4D chain,
-independent of the ideal): ~47 ms (500-bit), ~2.3 s (2000-bit), ~18 s (4000-bit).
+independent of the ideal)
 
 ---
 
